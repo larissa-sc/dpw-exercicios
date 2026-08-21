@@ -1,0 +1,12 @@
+{
+  "name": "dpw-exercicios",
+  "private": true,
+  "scripts": {
+    "verificar": "node --version && pnpm --version",
+    "dev:api": "pnpm --filter backend start:dev",
+    "dev:web": "pnpm --filter frontend dev"
+  },
+  "devDependencies": {
+    "prettier": "^3.9.6"
+  }
+}
