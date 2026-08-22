@@ -1,7 +1,7 @@
 # DPW — Exercícios do M00
 
 **Nome:** Larissa Gabriela Silva Cavalcante
-**Ambiente:** Windows 11 + PowerShell 7
+**Ambiente:** Windows 11 + PowerShell 5
 
 | # | Exercício | Evidência |
 |---|---|---|
