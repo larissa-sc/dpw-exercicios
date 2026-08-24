@@ -25,7 +25,9 @@ PS C:\dev\dpw-exercicios>
 
 ## Link Permanente .gitignore
 
+```text
 https://github.com/larissa-sc/dpw-exercicios/blob/762ddd78e61b4038518de7961f7469a91480914f/.gitignore
+```
 
 ## Por que o `pnpm-lock.yaml` é versionado e o `node_modules/` não?
 
